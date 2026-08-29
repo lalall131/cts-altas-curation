@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "CTS-Atlas nascent-RNA curation skill"
+message: "If you use this resource, please cite the versioned supplementary software archive."
+type: software
+version: "1.0.0"
+date-released: 2026-08-28
+abstract: >-
+  A rule-based and evidence-oriented curation workflow for identifying and
+  reviewing public nascent-RNA sequencing Runs for a co-transcriptional
+  splicing atlas.
+authors:
+  - name: "CTS-Atlas Working Group"
+keywords:
+  - nascent RNA
+  - co-transcriptional splicing
+  - sequencing data curation
+  - reproducible research
+license: "CC-BY-4.0"
